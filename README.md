@@ -1,8 +1,8 @@
 # Latihan Dasar-Dasar Pemrograman: Pertemuan 6
 
-- Nama  : NAMA LENGKAP
-- NIM   : NIM
-- Kelas : KELAS
+- Nama  : I Dewa Made Ari Santika
+- NIM   : 2601010050
+- Kelas : SI PAGI 2
 
 ## Daftar latihan
 1. `latihan1_biodata.py`: menampilkan biodata mahasiswa dengan f-string
